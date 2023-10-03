@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab532da2-a75e-4230-a217-1219eba30cb9" name="Changes" comment="run test unittest.xml">
-      <change beforePath="$PROJECT_DIR$/unittest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unittest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/lenovo/Desktop/pro/PITA-TRAING-Automation-TEST/unittest.xml">
+  <component name="RunManager" selected="TestNG.GradeTest">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PITA-TRAING-Automation-TEST/test-output/html/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -71,10 +72,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EXTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GradeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PITA-TRAING-Automation-TEST" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EXTest" />
+      <option name="MAIN_CLASS_NAME" value="GradeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GradeTest" />
         <item itemvalue="TestNG.C:/Users/lenovo/Desktop/pro/PITA-TRAING-Automation-TEST/unittest.xml" />
         <item itemvalue="JavaScript Debug.report.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="TestNG.DivisionTest" />
-        <item itemvalue="TestNG.EXTest" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695724600796</updated>
       <workItem from="1695724603210" duration="1536000" />
-      <workItem from="1696316612752" duration="12737000" />
+      <workItem from="1696316612752" duration="13513000" />
     </task>
     <task id="LOCAL-00001" summary="new add">
       <created>1696316825162</created>
@@ -222,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696330672696</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="run test unittest.xml">
+      <created>1696330801192</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696330801192</updated>
+    </task>
+    <task id="LOCAL-00019" summary="run test unittest.xml">
+      <created>1696331131690</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696331131690</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
