@@ -1,0 +1,1 @@
+{"uuid":"ba1a94a4-f43e-4230-b3b9-338c432e38fd","name":"EXTest.printtStatus","children":["52a964c7-9f5d-4ab5-bd2e-ca4d67c56601"],"description":"","befores":[{"name":"printtStatus","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696325455811,"stop":1696325455812}],"afters":[],"start":1696325455811,"stop":1696325455812}
