@@ -20,6 +20,7 @@ public class EXTest {
         System.out.println(iTestResult.getMethod().getMethodName() + "Finished....");
     }
 
+
     @Test(priority = 1)
     public void print() {
         System.out.println("Test...!!");
@@ -39,9 +40,79 @@ public class EXTest {
 
     @Test
     public void Test3() {
-        Assert.assertTrue(6 == 9);
+        Assert.assertTrue(9 == 9);
     }
 
+
+    @Test
+    public void Test3v() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Tes48t3() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test4543() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test453() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Tes1t3() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test213() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test13() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Tes1t131() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test131() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test113() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test3aaa() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Test3aa() {
+        Assert.assertTrue(9 == 9);
+    }
+
+    @Test
+    public void Testa3() {
+        Assert.assertTrue(1 == 1);
+    }
+
+    @Test
+    public void Test30aa() {
+        Assert.assertTrue(1 == 1);
+    }
 
     @Test
     public void Test4() {
@@ -55,7 +126,7 @@ public class EXTest {
     }
 
     @Test
-    public void Test6() {
+    public void Test9() {
         Assert.assertTrue(1 == 1);
     }
 

@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab532da2-a75e-4230-a217-1219eba30cb9" name="Changes" comment="new add">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DivisionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DivisionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/EXTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EXTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/GradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GradeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unittest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unittest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +41,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="PITA-TRAING-Automation-TEST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/lenovo/Desktop/pro/PITA-TRAING-Automation-TEST/unittest.xml">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PITA-TRAING-Automation-TEST/test-output/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PITA-TRAING-Automation-TEST/report.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="C:/Users/lenovo/Desktop/pro/PITA-TRAING-Automation-TEST/unittest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
@@ -98,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="TestNG.C:/Users/lenovo/Desktop/pro/PITA-TRAING-Automation-TEST/unittest.xml" />
+        <item itemvalue="JavaScript Debug.report.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="TestNG.DivisionTest" />
         <item itemvalue="TestNG.EXTest" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695724600796</updated>
       <workItem from="1695724603210" duration="1536000" />
-      <workItem from="1696316612752" duration="7221000" />
+      <workItem from="1696316612752" duration="9625000" />
     </task>
     <task id="LOCAL-00001" summary="new add">
       <created>1696316825162</created>
@@ -166,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696322050414</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new add">
+      <created>1696324088149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696324088149</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
