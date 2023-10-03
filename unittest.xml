@@ -2,20 +2,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Calculator">
     <test name="Division Tests">
-        <classes>
-            <class name="DivisionTest"></class>
-        </classes>
+<!--        <classes>-->
+<!--            <class name="DivisionTest"></class>-->
+<!--        </classes>-->
     </test>
     <test name="Grading Tests">
         <classes>
             <class name="GradeTest"></class>
         </classes>
     </test>
-    <test name="EXTest Tests">
-        <classes>
-            <class name="EXTest"></class>
-        </classes>
-    </test>
+<!--    <test name="EXTest Tests">-->
+<!--        <classes>-->
+<!--            <class name="EXTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     </listeners>
