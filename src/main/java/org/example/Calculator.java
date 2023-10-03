@@ -2,6 +2,9 @@ package org.example;
 
 public class Calculator {
     public float division(float x, float y) {
+        if (y == 0) {
+            throw new ArithmeticException();
+        }
         return x / y;
     }
 
