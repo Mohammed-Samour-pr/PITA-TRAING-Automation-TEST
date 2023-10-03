@@ -20,7 +20,7 @@ public class DivisionTest {
         Assert.assertEquals(calculator.division(x, y), expected);
     }
 
-    @Test(dataProvider = "Valid Division Data", expectedExceptions = ArithmeticException.class)
+    @Test(dataProvider = "Invalid Division Data", expectedExceptions = ArithmeticException.class)
     public void testInvalidInputs(float x, float y) {
         new Calculator().division(x, y);
     }

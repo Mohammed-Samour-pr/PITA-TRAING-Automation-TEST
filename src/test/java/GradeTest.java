@@ -10,7 +10,6 @@ public class GradeTest {
         return new Object[][]{{100, "Excellent"}, {-1, "Invalid"},};
     }
 
-
     @Test(dataProvider = "gradeData")
     public void testGrade(int mark, String expected) {
         Calculator calculator = new Calculator();
