@@ -45,6 +45,12 @@ public class EXTest {
 
 
     @Test
+    public void Test30210() {
+        Assert.assertTrue(9 == 9);
+    }
+
+
+    @Test
     public void Test3v() {
         Assert.assertTrue(9 == 9);
     }
